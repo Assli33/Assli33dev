@@ -2,21 +2,30 @@
 <img src="banner.png">
 
 <h1 align="center">Hola👋🏻, Mi nombre es Assli 😊👀</h1>
-<h3 align="center"> — Esto es acerca sobre mi </h3>
-<p align="center"> font=Time+New+Roman&color=green &size=25&center=true&vCenter=true&width=600&height=100&lines= Estudio+en+la+Universidad+San+Pablo,Ingenieria+Industrial.https://ucsp.edu.pe/carreras/ingenieria-industrial/ <br><br> ✅ </h2><3"></a>
-</p>
-
 <h2 align="center">Estudio en la Universidad San pablo Ingenieria Industrial https://ucsp.edu.pe/carreras/ingenieria-industrial/ <br><br> ✅ </h2>
 
 <img src="code.png" align='right' width="370" height="370" alt="Code">
 <img src="https://i.pinimg.com/originals/31/84/fd/3184fddee90fc94780ca6618c52713ca.gif" width="370" height="370" alt="Hi Gif">
-
+<h3 align="center"> — Esto es acerca sobre mi </h3>
 - 💃 Amo hacer cualquier actividad artística ❤️<br><br>
 - ⌛Pasar tiempo de calidad con mi familia😌 <br><br>
 - 📚Me agrada tener nuevos conocimientos a lo largo de mi vida universitaria y la dicha de tener profesores con un ideales distintos e innovador que contribuyan a la sociedad <br><br>
 - 👾 Me gusta conocer historia y relatos antiguos <br><br>
 - 🥞 Amo cocinar y a decir verdad tengo buena sazon <a 
 - ⚡ En mis tiempos libres veo los simsomps o cualquier serie que me agrade 😅<br><br>
+<h4 align="center"> — Les mostrare mi centro de estudio y actividades que se realizan a lo largo del año</h4>
+
+-
+
+
+
+
+
+
+
+
+
+
 - 📬 Contactame:<br>
   - Email: lauracalibejar3@gmail.com <br>
   - Connect with me on LinkedIn: https:
