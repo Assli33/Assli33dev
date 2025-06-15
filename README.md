@@ -15,24 +15,21 @@
 - ⚡ En mis tiempos libres veo los simsomps o cualquier serie que me agrade 😅<br><br>
 <h4 align="center"> — Les mostrare mi centro de estudio y actividades que se realizan a lo largo del año</h4>
 
-![image_alt] ( https://github.com/Assli33/Assli33dev/blob/d36c86b7c34cbff64adb0243756456e6803fcef3/san-pablo-top-ten-ranking.jpg)
+![Image](https://github.com/user-attachments/assets/548daabb-7b4a-4b86-a3d0-faa2c2cc0679)
 https://ucsp.edu.pe/
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
-![Image](https://github.com/user-attachments/assets/ae2bd38d-38fe-4d0b-91e8-8b048533fb1e | width=100 )
-   ![Image](https://github.com/user-attachments/assets/ae2bd38d-38fe-4d0b-91e8-8b048533fb1e | width=100  ) 
+![Image](https://github.com/user-attachments/assets/ae2bd38d-38fe-4d0b-91e8-8b048533fb1e)
 https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturales/
 
 
-![image alt] ( https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/IMG_2342.jpg)
+![Image](https://github.com/user-attachments/assets/151ce816-0156-493d-8d28-79915c3d8097)
 https://ucsp.edu.pe/vive-san-pablo/vida-universitaria/actividades/
 
-![image alt] (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/images%20(4).jpeg ) 
+![Image](https://github.com/user-attachments/assets/ef397f65-c309-45dc-8c9c-d28fad85b979)
 https://ucsp.edu.pe/elenco/danza/
 
-![image alt] (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/images%20(5).jpeg) 
+![Image](https://github.com/user-attachments/assets/a1bc681e-0cca-42d0-9f52-a381058b263e)
 https://ucsp.edu.pe/agenda/
 
 ![image alt] (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/ucsp-guia-arquitectura-2.jpg) 
