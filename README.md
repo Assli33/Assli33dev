@@ -17,9 +17,12 @@
 
 ![image_alt] ( https://github.com/Assli33/Assli33dev/blob/d36c86b7c34cbff64adb0243756456e6803fcef3/san-pablo-top-ten-ranking.jpg)
 https://ucsp.edu.pe/
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
-![Image](https://github.com/user-attachments/assets/ae2bd38d-38fe-4d0b-91e8-8b048533fb1e)width="200" heith="200")
+![Image](https://github.com/user-attachments/assets/ae2bd38d-38fe-4d0b-91e8-8b048533fb1e | width=100 )
+   ![Image](https://github.com/user-attachments/assets/ae2bd38d-38fe-4d0b-91e8-8b048533fb1e | width=100  ) 
 https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturales/
 
 
