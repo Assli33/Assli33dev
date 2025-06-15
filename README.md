@@ -15,11 +15,11 @@
 - ⚡ En mis tiempos libres veo los simsomps o cualquier serie que me agrade 😅<br><br>
 <h4 align="center"> — Les mostrare mi centro de estudio y actividades que se realizan a lo largo del año</h4>
 
-![image alt] (image_url) https://github.com/Assli33/Assli33dev/blob/d36c86b7c34cbff64adb0243756456e6803fcef3/san-pablo-top-ten-ranking.jpg
+![image alt] (image_url) (https://github.com/Assli33/Assli33dev/blob/d36c86b7c34cbff64adb0243756456e6803fcef3/san-pablo-top-ten-ranking.jpg)
 https://ucsp.edu.pe/
 
 
-![image alt] (image_url) https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/Arapa.jpg 
+![image alt] (image_url) (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/Arapa.jpg )
 https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturales/
 
 
