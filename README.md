@@ -19,20 +19,25 @@
 ![Image](https://github.com/user-attachments/assets/329f844a-9820-482e-b381-f4e9cf70578d)
 https://ucsp.edu.pe/
 
-<h4 align="center"> 
-![Image](https://github.com/user-attachments/assets/548daabb-7b4a-4b86-a3d0-faa2c2cc0679)
-https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturales/
-
+<h4 align="center"> Actividades Artísticas
 
 ![Image](https://github.com/user-attachments/assets/ae2bd38d-38fe-4d0b-91e8-8b048533fb1e)
 (https://ucsp.edu.pe/elenco/danza/)
 
 
+<h4 align="center"> Intercambios
+  
 ![Image](https://github.com/user-attachments/assets/151ce816-0156-493d-8d28-79915c3d8097)
 https://ucsp.edu.pe/internacional/programas-internacionales/
 
+
+<h4 align="center"> Deportes
+
 ![Image](https://github.com/user-attachments/assets/ef397f65-c309-45dc-8c9c-d28fad85b979)
 https://ucsp.edu.pe/vive-san-pablo/vida-universitaria/actividades/
+
+
+<h4 align="center"> Charlas informativas
 
 ![Image](https://github.com/user-attachments/assets/a1bc681e-0cca-42d0-9f52-a381058b263e)
 https://ucsp.edu.pe/agenda/
