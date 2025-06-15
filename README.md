@@ -27,30 +27,34 @@ https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturale
 
 
 ![Image](https://github.com/user-attachments/assets/151ce816-0156-493d-8d28-79915c3d8097)
-https://ucsp.edu.pe/vive-san-pablo/vida-universitaria/actividades/
+https://ucsp.edu.pe/internacional/programas-internacionales/
 
 ![Image](https://github.com/user-attachments/assets/ef397f65-c309-45dc-8c9c-d28fad85b979)
-https://ucsp.edu.pe/elenco/danza/
+https://ucsp.edu.pe/vive-san-pablo/vida-universitaria/actividades/
 
 ![Image](https://github.com/user-attachments/assets/a1bc681e-0cca-42d0-9f52-a381058b263e)
 https://ucsp.edu.pe/agenda/
 
-![image alt] (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/ucsp-guia-arquitectura-2.jpg) 
 
+Profesores:
+Ernesto cuadros https://www.linkedin.com/in/ecuadrosv/
 
-
-
-
-
+Compañeros:
+Tania Yurnet Chuctaya Cjuno -- https://taniayurn.github.io/Tania-Yurnet-Chuctaya-Cjuno/
+Romina Andrea Llanos Campos -- https://github.com/rominallanos
+Lourdes Camila Pinto Astoquilca -- https://lourdespinto.github.io/Lourdes-Camila-Pinto-Astoquilca/
+José Alejandro Valdivia Juarez -- https://jano2112.github.io/Jose-Alejandro-Valdivia-Juarez/
+Jennifer Eliana Checya Soncco --https://jenniferelianachecya1.github.io/Jennifer-Eliana-Checya-Soncco/
 
 
 
 
 - 📬 Contactame:<br>
   - Email: lauracalibejar3@gmail.com <br>
-  - Connect with me on LinkedIn: https:
+  - Contactame en mi LinkedIn: https://www.linkedin.com/in/laura-bejar-602058369/
+- En mis tedes:
+  instagram:lau_kal68
+  
 
 
-------
 
-<br>
