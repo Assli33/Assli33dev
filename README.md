@@ -3,6 +3,9 @@
 
 <h1 align="center">Hola👋🏻, Mi nombre es Assli 😊👀</h1>
 <h3 align="center"> — Esto es acerca sobre mi </h3>
+<p align="center"> font=Time+New+Roman&color=green &size=25&center=true&vCenter=true&width=600&height=100&lines= Estudio+en+la+Universidad+San+Pablo,Ingenieria+Industrial.https://ucsp.edu.pe/carreras/ingenieria-industrial/ <br><br> ✅ </h2><3"></a>
+</p>
+
 <h2 align="center">Estudio en la Universidad San pablo Ingenieria Industrial https://ucsp.edu.pe/carreras/ingenieria-industrial/ <br><br> ✅ </h2>
 
 <img src="code.png" align='right' width="370" height="370" alt="Code">
