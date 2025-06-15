@@ -15,25 +15,24 @@
 - ⚡ En mis tiempos libres veo los simsomps o cualquier serie que me agrade 😅<br><br>
 <h4 align="center"> — Les mostrare mi centro de estudio y actividades que se realizan a lo largo del año</h4>
 
-![image alt] (image_url) (https://github.com/Assli33/Assli33dev/blob/d36c86b7c34cbff64adb0243756456e6803fcef3/san-pablo-top-ten-ranking.jpg)
+![image alt] ( https://github.com/Assli33/Assli33dev/blob/d36c86b7c34cbff64adb0243756456e6803fcef3/san-pablo-top-ten-ranking.jpg)
 https://ucsp.edu.pe/
 
 
-![image alt] (image_url) (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/Arapa.jpg )
+![image alt] (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/Arapa.jpg) 
 https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturales/
-![image alt] (image_url) https://github.com/Assli33/Assli33dev/blob/0ae60f5170c204bd7e02a4f9e32f560d3d30ff71/Arapa.jpg
 
 
-![image alt] (image_url) https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/IMG_2342.jpg
+![image alt] ( https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/IMG_2342.jpg)
 https://ucsp.edu.pe/vive-san-pablo/vida-universitaria/actividades/
 
-![image alt] (image_url) https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/images%20(4).jpeg 
+![image alt] (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/images%20(4).jpeg ) 
 https://ucsp.edu.pe/elenco/danza/
 
-![image alt] (image_url) https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/images%20(5).jpeg
+![image alt] (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/images%20(5).jpeg) 
 https://ucsp.edu.pe/agenda/
 
-![image alt] (image_url) https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/ucsp-guia-arquitectura-2.jpg
+![image alt] (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/ucsp-guia-arquitectura-2.jpg) 
 
 
 
