@@ -15,7 +15,7 @@
 - ⚡ En mis tiempos libres veo los simsomps o cualquier serie que me agrade 😅<br><br>
 <h4 align="center"> — Les mostrare mi centro de estudio y actividades que se realizan a lo largo del año</h4>
 
-![image alt] ( https://github.com/Assli33/Assli33dev/blob/d36c86b7c34cbff64adb0243756456e6803fcef3/san-pablo-top-ten-ranking.jpg)
+![image_alt] ( https://github.com/Assli33/Assli33dev/blob/d36c86b7c34cbff64adb0243756456e6803fcef3/san-pablo-top-ten-ranking.jpg)
 https://ucsp.edu.pe/
 
 
