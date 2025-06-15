@@ -19,11 +19,11 @@
 https://ucsp.edu.pe/
 
 ![Image](https://github.com/user-attachments/assets/548daabb-7b4a-4b86-a3d0-faa2c2cc0679)
-
+https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturales/
 
 
 ![Image](https://github.com/user-attachments/assets/ae2bd38d-38fe-4d0b-91e8-8b048533fb1e)
-https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturales/
+(https://ucsp.edu.pe/elenco/danza/)
 
 
 ![Image](https://github.com/user-attachments/assets/151ce816-0156-493d-8d28-79915c3d8097)
