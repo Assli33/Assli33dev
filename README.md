@@ -15,9 +15,11 @@
 - ⚡ En mis tiempos libres veo los simsomps o cualquier serie que me agrade 😅<br><br>
 <h4 align="center"> — Les mostrare mi centro de estudio y actividades que se realizan a lo largo del año</h4>
 
+
 ![Image](https://github.com/user-attachments/assets/329f844a-9820-482e-b381-f4e9cf70578d)
 https://ucsp.edu.pe/
 
+<h4 align="center"> 
 ![Image](https://github.com/user-attachments/assets/548daabb-7b4a-4b86-a3d0-faa2c2cc0679)
 https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturales/
 
@@ -37,13 +39,18 @@ https://ucsp.edu.pe/agenda/
 
 
 Profesores:
+
 Ernesto cuadros https://www.linkedin.com/in/ecuadrosv/
 
 Compañeros:
 Tania Yurnet Chuctaya Cjuno -- https://taniayurn.github.io/Tania-Yurnet-Chuctaya-Cjuno/
+
 Romina Andrea Llanos Campos -- https://github.com/rominallanos
+
 Lourdes Camila Pinto Astoquilca -- https://lourdespinto.github.io/Lourdes-Camila-Pinto-Astoquilca/
+
 José Alejandro Valdivia Juarez -- https://jano2112.github.io/Jose-Alejandro-Valdivia-Juarez/
+
 Jennifer Eliana Checya Soncco --https://jenniferelianachecya1.github.io/Jennifer-Eliana-Checya-Soncco/
 
 
