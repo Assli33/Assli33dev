@@ -61,7 +61,7 @@ Jennifer Eliana Checya Soncco --https://jenniferelianachecya1.github.io/Jennifer
 
 
 
-- 📬 Contactame:<br>
+-📬 Contactame:<br>
   - Email: lauracalibejar3@gmail.com <br>
   - Contactame en mi LinkedIn: https://www.linkedin.com/in/laura-bejar-602058369/
 - En mis tedes:
