@@ -21,6 +21,7 @@ https://ucsp.edu.pe/
 
 ![image alt] (image_url) (https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/Arapa.jpg )
 https://ucsp.edu.pe/vive-san-pablo/universidad/transparencia/ambientes-culturales/
+![image alt] (image_url) https://github.com/Assli33/Assli33dev/blob/0ae60f5170c204bd7e02a4f9e32f560d3d30ff71/Arapa.jpg
 
 
 ![image alt] (image_url) https://github.com/Assli33/Assli33dev/blob/5b9a37e2612f41e6c9f5d349345691fe2aa0fb4b/IMG_2342.jpg
