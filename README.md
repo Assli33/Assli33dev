@@ -15,8 +15,11 @@
 - ⚡ En mis tiempos libres veo los simsomps o cualquier serie que me agrade 😅<br><br>
 <h4 align="center"> — Les mostrare mi centro de estudio y actividades que se realizan a lo largo del año</h4>
 
-![Image](https://github.com/user-attachments/assets/548daabb-7b4a-4b86-a3d0-faa2c2cc0679)
+![Image](https://github.com/user-attachments/assets/329f844a-9820-482e-b381-f4e9cf70578d)
 https://ucsp.edu.pe/
+
+![Image](https://github.com/user-attachments/assets/548daabb-7b4a-4b86-a3d0-faa2c2cc0679)
+
 
 
 ![Image](https://github.com/user-attachments/assets/ae2bd38d-38fe-4d0b-91e8-8b048533fb1e)
